@@ -1,4 +1,4 @@
-* C implementation QuickSort */
+// C implementation QuickSort 
 #include<stdio.h>
  
 // A utility function to swap two elements
